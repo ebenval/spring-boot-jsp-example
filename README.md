@@ -7,6 +7,7 @@
 - Servlet API 2.5
 - JSP, HTML, JS, CSS
 - Tomcat 9
+- Problem whit data base
 
 ## Install
 1. To clean and build maven project, use:

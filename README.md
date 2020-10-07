@@ -8,6 +8,7 @@
 - JSP, HTML, JS, CSS
 - Tomcat 9
 - Problem whit data base
+- OK
 
 ## Install
 1. To clean and build maven project, use:
